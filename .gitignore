@@ -1,0 +1,2 @@
+# Ignore CSV files in week 02 data folder
+week 02/data/*.csv
